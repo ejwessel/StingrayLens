@@ -3,7 +3,7 @@
     "document_id": "kivGzzmz_a4TfPczV-Jd",
     "original_document_id": "kivGzzmz_a4TfPczV-Jd",
     "version": "23",
-    "lastChanged": "1585321342892",
+    "lastChanged": "1585530051463",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -1157,15 +1157,15 @@
                     },
                     {
                         "k": "32",
-                        "v": "9ac614f818a303c7a121a409aa3cc579"
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-27T10:48:50",
+                        "lastModified": "2020-03-29T21:00:45",
                         "name": "Public",
-                        "hash": "ebda99b8d184abbebc03042659adc638",
+                        "hash": "35a908a62d92ef28d4cd3f3d54237724",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1197,9 +1197,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-27T10:48:50",
+                                "lastModified": "2020-03-29T21:00:45",
                                 "name": "Credit Alpha.js",
-                                "hash": "9ac614f818a303c7a121a409aa3cc579",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -1879,8 +1879,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1585320415930539:7703"
+                "resources": [
+                    {
+                        "uid": "1585320393581878:6843",
+                        "path_list": [
+                            "Credit Alpha"
+                        ]
+                    }
                 ]
             }
         },
